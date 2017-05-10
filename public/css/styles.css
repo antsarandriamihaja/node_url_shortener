@@ -1,0 +1,16 @@
+body{
+    background-color: #9C27B0;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 15%;
+}
+
+h1{
+    color: white;
+}
+
+.btn-shorten{
+    background-color: #68EFAD;
+    font-weight: 400;
+    color: white;
+}
